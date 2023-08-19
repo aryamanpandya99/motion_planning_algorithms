@@ -1,2 +1,2 @@
-# motion_planning_algorithms
+# Motion Planning Algorithms
 A collection of motion planning algorithm implementations 
